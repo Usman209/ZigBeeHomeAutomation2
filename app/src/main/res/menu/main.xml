@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:title="Device Name"
+        android:id="@+id/devicename"
+        android:orderInCategory="100"
+        />
+    <item
+
+        android:title="Sensor Name"
+        android:id="@+id/sensorname"
+        android:orderInCategory="100"
+        />
+
+    <item
+
+        android:title="Setting"
+        android:id="@+id/setting"
+        android:orderInCategory="100"
+        />
+    <item
+
+        android:title="Set IP "
+        android:id="@+id/setip"
+        android:orderInCategory="100"
+        />
+    <item
+
+        android:title="Set Port "
+        android:id="@+id/setport"
+        android:orderInCategory="100"
+        />
+    <item
+
+        android:title="Reset "
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        />
+    <item
+
+        android:title="About Us "
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        />
+
+
+
+
+
+
+
+
+</menu>
